@@ -1,0 +1,8 @@
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\obj\Debug\Phone_book.csproj.AssemblyReference.cache
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\obj\Debug\Phone_book.csproj.SuggestedBindingRedirects.cache
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\obj\Debug\Phone_book.csproj.CoreCompileInputs.cache
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\bin\Debug\Phone_book.exe.config
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\bin\Debug\Phone_book.exe
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\bin\Debug\Phone_book.pdb
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\obj\Debug\Phone_book.exe
+C:\Users\jbagr\OneDrive\Pulpit\C#\Phone_book\obj\Debug\Phone_book.pdb
